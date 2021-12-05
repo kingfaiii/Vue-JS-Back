@@ -1,0 +1,5 @@
+---
+deployment:
+  tasks:
+    - export DEPLOYPATH=/home/y1zo8q5f7aub/repositories/capstone-backend
+    - /bin/cp -a * $DEPLOYPATH
